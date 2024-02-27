@@ -1,3 +1,3 @@
 # 560-RPS
 
-This is a rock, paper, scissors excersise for INLS 560.
+This is a rock, paper, scissors exercise for INLS 560.
